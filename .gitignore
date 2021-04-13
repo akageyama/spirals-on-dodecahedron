@@ -1,0 +1,5 @@
+*.o
+*.mod
+output.data
+output.png
+runme
